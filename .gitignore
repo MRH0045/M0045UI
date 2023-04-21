@@ -4,3 +4,8 @@ packages/*/lib
 packages/*/legacy/dist
 .vscode
 .DS_Store
+.cache
+coverage
+dist
+packages/*/dist
+packages/*/coverage
