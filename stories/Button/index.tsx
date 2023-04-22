@@ -15,7 +15,7 @@ export interface IButton {
  */
 export const Button = (props:IButton) => {
   const {
-    primary, backgroundColor, size, label, ...otherProps
+    primary, backgroundColor, size, label
   } = props;
   const mode = primary ? 'storybook-button--primary' : 'storybook-button--secondary';
   return (

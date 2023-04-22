@@ -9,3 +9,5 @@ coverage
 dist
 packages/*/dist
 packages/*/coverage
+build
+docs
